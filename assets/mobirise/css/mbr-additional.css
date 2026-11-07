@@ -1674,6 +1674,54 @@ a {
 .cid-vgVgEX2HBZ .card-text {
   color: #edefeb;
 }
+.cid-vAg6N4LIjU {
+  padding-top: 3rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/rse-logo-silver-large-circle.png");
+}
+.cid-vAg6N4LIjU .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vAg6N4LIjU .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vAg6N4LIjU .item-wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-vAg6N4LIjU .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vAg6N4LIjU .content-head {
+  max-width: 800px;
+}
+.cid-vAg6N4LIjU .img-wrapper {
+  padding-right: 1.5rem;
+}
+.cid-vAg6N4LIjU .img-wrapper img {
+  width: 6rem;
+}
+.cid-vAg6N4LIjU .card-text DIV {
+  text-align: center;
+}
+.cid-vAg6N4LIjU .card-title {
+  text-align: center;
+  color: #f7f7f7;
+}
+.cid-vAg6N4LIjU .mbr-section-title {
+  color: #ffffff;
+}
+.cid-vAg6N4LIjU .card-text {
+  color: #edefeb;
+}
 .cid-veheyFOWeW {
   padding-top: 1rem;
   padding-bottom: 3rem;
